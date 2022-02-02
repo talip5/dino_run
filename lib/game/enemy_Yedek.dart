@@ -1,3 +1,4 @@
+/*
 import 'dart:ui';
 
 import 'package:flame/components/animation_component.dart';
@@ -95,3 +96,4 @@ class Enemy extends AnimationComponent {
     }
   }
 }
+*/

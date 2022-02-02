@@ -65,7 +65,10 @@ flutter:
     - assets/images/AngryPig/
     - assets/images/Bat/
     - assets/images/Rino/
-
+    - assets/images/Dino1.gif
+    - assets/images/dino5.gif
+    - assets/images/dino20.png
+    - assets/images/empty/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
